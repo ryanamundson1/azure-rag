@@ -1,8 +1,15 @@
 azure-identity==1.15.0
 langchain==0.0.329
 azure-search-documents==11.4.0b8
-openai==0.28.1
+openai
 python-dotenv==1.0.0
 fastapi==0.108.0
 uvicorn[standard]==0.25.0
 tiktoken==0.5.2
+qdrant-client
+# Non-coursera version sentence-transformers==2.3.1
+sentence-transformers
+openai
+numpy
+kagglehub
+pandas
